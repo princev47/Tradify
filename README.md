@@ -8,13 +8,9 @@ NexTrade aims to provide a comprehensive online platform for businesses and trad
 
 [NexTrade Live](https://nextrade-front-end.vercel.app/)
 
-## Server Side
 
-[NexTrade Server Code](https://github.com/diptomahin/nexTrade-server)
 
-## NexTrade Homepage
 
-[![Home Page of NexTrade](https://i.postimg.cc/Z5v2wYKy/Screenshot.png)](https://postimg.cc/jDKM5bfs)
 
 ## Key Features
 
@@ -77,15 +73,9 @@ NexTrade aims to provide a comprehensive online platform for businesses and trad
 - **Mail:** user@nextrade.com
 - **Password:** Nextrade123!@#
 
-## Challenges
 
-- Implementing the Google translation feature and integrating Live Cryptocurrency APIs were among the toughest hurdles in this project. Ensuring our trading platform caters to international users necessitated the implementation of the Google Translate Widget, offering support for over 136 languages. This task posed a notable challenge due to the need for our website to be accessible in multiple languages worldwide.
 
-## Contributor
 
-<a href="https://github.com/diptomahin/nextrade/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=diptomahin/nextrade"/>
-</a>
 
 ## How to Run Locally
 
